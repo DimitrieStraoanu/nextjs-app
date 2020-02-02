@@ -9,7 +9,6 @@ const Navbar = () => (
         <style jsx>{`
 
             div{
-                margin-right: 20px;
                 margin-left: auto;
             }
 

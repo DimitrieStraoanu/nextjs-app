@@ -12,11 +12,8 @@ const Header = () => (
             align-items: center;
             background: black;
             color: white;
+            padding:20px;
         }      
-        
-        p{
-            margin-left: 20px;
-        }        
         
         `}
         </style>
